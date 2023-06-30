@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9e352e64.css",
+    "main.js": "./static/js/main.4d5f1a82.js",
+    "static/media/MacacaoSmanda.jpg": "./static/media/MacacaoSmanda.1d9324b9a763fc202423.jpg",
+    "static/media/Papeldeparede1.jpg": "./static/media/Papeldeparede1.af4146da144b70483a29.jpg",
+    "static/media/kit luva.jpg": "./static/media/kit luva.23e4723550bf10182eed.jpg",
+    "static/media/ninho.jpg": "./static/media/ninho.d2a3179cc5c12866ae14.jpg",
+    "static/media/jogo lencol.jpg": "./static/media/jogo lencol.468d9a3244ffdd27b6fe.jpg",
+    "static/media/kitberco.jpg": "./static/media/kitberco.3f01314be4f408865a60.jpg",
+    "static/media/casaquinho.jpg": "./static/media/casaquinho.f7265f79aaa326ca89cc.jpg",
+    "static/media/fraldadeboca.jpeg": "./static/media/fraldadeboca.3682f09b9d15c74e73d8.jpeg",
+    "static/media/kit_Cuidados.jpg": "./static/media/kit_Cuidados.c499334be575dab008e7.jpg",
+    "static/media/33513eebf2.jpg": "./static/media/33513eebf2.bdcc33928d28051a335b.jpg",
+    "static/media/traveseiroantirefluxo.jpg": "./static/media/traveseiroantirefluxo.520fbbf1d6d6a01de703.jpg",
+    "static/media/fraldaOmbro.jpg": "./static/media/fraldaOmbro.15b2aa6beafa82335d7c.jpg",
+    "static/media/Toalhabanho.jpg": "./static/media/Toalhabanho.b6fba0becfa25438924a.jpg",
+    "static/media/Vestidinho.jpg": "./static/media/Vestidinho.80a22b35da3fea94b814.jpg",
+    "static/media/fralda_tecido.jpg": "./static/media/fralda_tecido.e5bc300bf409a664195c.jpg",
+    "static/media/kit_Higiene.jpg": "./static/media/kit_Higiene.e2bd8c01eee94ba91b07.jpg",
+    "static/media/Cueiro.jpg": "./static/media/Cueiro.5cf9416820a2f218ab67.jpg",
+    "static/media/Fralda_P.jpg": "./static/media/Fralda_P.3e52ad1db261c2a32a37.jpg",
+    "static/media/borymanga.jpg": "./static/media/borymanga.c0438c23fa45c78c6238.jpg",
+    "static/media/borysmanga.jpg": "./static/media/borysmanga.017ac69cc5907575019a.jpg",
+    "static/media/kit_Mamadeira.jpg": "./static/media/kit_Mamadeira.ffef528dd3302c5903ea.jpg",
+    "static/media/Bobby Jones Soft.otf": "./static/media/Bobby Jones Soft.c48adaa62980dc4e774c.otf",
+    "static/media/Fralda_RN.jpg": "./static/media/Fralda_RN.1e270905e1a7cc5edb64.jpg",
+    "static/media/macacaozinho.jpg": "./static/media/macacaozinho.9e9f1427e7bbb093d8bc.jpg",
+    "static/media/fralda_M.jpg": "./static/media/fralda_M.1bba420d6e823435f3fb.jpg",
+    "static/media/calcaMijao.jpg": "./static/media/calcaMijao.ce600941e4d9cef9da93.jpg",
+    "static/media/cobertorsimples.jpg": "./static/media/cobertorsimples.fb098eb6ed9a2ee35e5d.jpg",
+    "static/media/sacoDormircoberta.jpg": "./static/media/sacoDormircoberta.2ccb464b194e09bfd855.jpg",
+    "index.html": "./index.html",
+    "main.9e352e64.css.map": "./static/css/main.9e352e64.css.map",
+    "main.4d5f1a82.js.map": "./static/js/main.4d5f1a82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e352e64.css",
+    "static/js/main.4d5f1a82.js"
+  ]
+}
